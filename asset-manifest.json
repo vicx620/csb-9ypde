@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vicx620.github.io/csb-9ypde/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://vicx620.github.io/csb-9ypde/static/js/main.a54d6022.chunk.js",
+    "main.js.map": "https://vicx620.github.io/csb-9ypde/static/js/main.a54d6022.chunk.js.map",
+    "runtime-main.js": "https://vicx620.github.io/csb-9ypde/static/js/runtime-main.c69bb2d4.js",
+    "runtime-main.js.map": "https://vicx620.github.io/csb-9ypde/static/js/runtime-main.c69bb2d4.js.map",
+    "static/js/2.afd9b8ba.chunk.js": "https://vicx620.github.io/csb-9ypde/static/js/2.afd9b8ba.chunk.js",
+    "static/js/2.afd9b8ba.chunk.js.map": "https://vicx620.github.io/csb-9ypde/static/js/2.afd9b8ba.chunk.js.map",
+    "index.html": "https://vicx620.github.io/csb-9ypde/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://vicx620.github.io/csb-9ypde/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.afd9b8ba.chunk.js.LICENSE.txt": "https://vicx620.github.io/csb-9ypde/static/js/2.afd9b8ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c69bb2d4.js",
+    "static/js/2.afd9b8ba.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a54d6022.chunk.js"
+  ]
+}
